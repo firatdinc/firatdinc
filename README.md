@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fırat</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [https://firat.seniorjs.dev](firat.seniorjs.dev)
+- 👨‍💻 All of my projects are available at [firat.seniorjs.dev](https://firat.seniorjs.dev)
 
 - 💬 Ask me about **React.js , Next.js and Javascript**
 
