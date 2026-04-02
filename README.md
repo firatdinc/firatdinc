@@ -61,12 +61,12 @@ I design, develop, and publish mobile applications from scratch. Check out my pu
 
 ---
 
-## 🔭 Geliştirme Felsefesi (Operasyon Felsefesi)
+## 🔭 DEVELOPMENT PHILOSOPHY (OPERATIONS)
 
 Every line of code is optimized for scalability and performance. Here is how I operate:
 
-> **⚡ Architecture (Agile & MVP):** Fikirleri aylarca bekletmek yerine, en hızlı ve stabil şekilde **Minimum Viable Product (MVP)** olarak canlıya alıp, doğrudan gerçek kullanıcı geri bildirimleriyle büyütüyorum.
+> **⚡ Architecture (Agile & MVP):** Rather than letting ideas stagnate for months, I deploy **Minimum Viable Products (MVPs)** quickly and stably, iterating based on real user feedback.
 > 
-> **🤖 AI-Optimized Workflow:** **Cursor** ve **Claude Code** gibi yapay zeka asistanlarını kodlama süreçlerime entegre ederek "boilerplate" işleri atlıyor, odak noktamı mimari ve ürün kalitesine veriyorum.
+> **🤖 AI-Optimized Workflow:** By integrating AI assistants like **Cursor** and **Claude Code** into my daily flow, I skip the boilerplate and focus entirely on core architecture and product quality.
 > 
-> **🚀 Scalability First:** Uygulamaları ilk günden itibaren **Firebase** ve **React Native (Expo)** gücüyle, binlerce anlık trafiği sorunsuz kaldırabilecek bir altyapıda inşa ediyorum.
+> **🚀 Scalability First:** I build applications from day one on robust infrastructures like **Firebase** and **React Native (Expo)**, ensuring they can handle thousands of concurrent users flawlessly.
